@@ -47,3 +47,6 @@ Also, the command to run the Json-server must have run ***npx json-server db.jso
 
 For Ios users, it is just necessary to run ***json-server db.json*** for the Json-server to start
 
+# Youtube Video
+https://www.youtube.com/watch?v=6i9xZ5_AVIk
+
